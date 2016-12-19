@@ -50,9 +50,7 @@
 # array
 # =================
   
-  countries = ["canada", "brazil", "spain"]
-  cities = ["Houston", "Austin", "Dallas"]
-  
+  countries = ["canada", "brazil", "spain"]  
 # =================
 # hash
 # =================
