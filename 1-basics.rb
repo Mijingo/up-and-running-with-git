@@ -3,6 +3,7 @@
 # =================
 
   puts "Hello World!"
+  puts "We are learning branches in Git!"
 
 # =================
 # types
