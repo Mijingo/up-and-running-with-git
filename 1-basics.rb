@@ -4,7 +4,7 @@
   puts "Hello Github!"
   puts "Hello World!"
   puts "We are learning branches in Git!"
-
+  puts "Hello from the Mac Pro!"
 # =================
 # types
 # =================
