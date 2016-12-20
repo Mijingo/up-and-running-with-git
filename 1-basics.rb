@@ -1,5 +1,5 @@
 # =================
-# Intro to Ruby
+# Intro to Ruby and Fun with Git Version Control!
 # =================
 
   puts "Hello World!"
