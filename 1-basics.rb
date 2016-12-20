@@ -1,5 +1,5 @@
 # =================
-# Intro to Ruby
+# Intro to Ruby and Fun with Git!
 # =================
   puts "Hello again!"
   puts "Hello Github!"
